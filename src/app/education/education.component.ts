@@ -10,7 +10,7 @@ export class EducationComponent implements OnInit {
   educationList: Education[] = [
     {
       institute: "Punyashlok Ahilyadevi Holkar University, Solapur",
-      course: 'B.E. Computer Science',
+      course: "Bechelor's of Engineering (B.E. - Computer 4Years)",
       duration: '2018-2021',
       score: '73%',
     },
