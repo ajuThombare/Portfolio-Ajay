@@ -10,7 +10,7 @@ export class PersonalInformationComponent implements OnInit {
     ['Name', 'Ajay Prakash Thombare'],
     ['DOB', '01/09/1999'],
     ['Work Exp', '1.5 Years'],
-    ['Education', 'B.E.(Computer Science) (2021)'],
+    ['Education', "Bechelor's of Engineering (B.E. - Computer 4Years) (2021)"],
     ['Hobbies','Fussball Cycling'],
   ];
 
