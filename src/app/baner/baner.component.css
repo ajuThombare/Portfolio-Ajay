@@ -1,6 +1,6 @@
 :host {
     display: block;
-    padding: 4rem 2rem 6rem;
+    /* padding: 4rem 2rem 6rem; */
     background-color: var(--dark-gray);
     clip-path: polygon(0% 0%, 100% 0%, 100% 95%, 50% 100%, 0% 95%);
 }
@@ -22,7 +22,9 @@
 
 .name {
     grid-row: 3/4;
-    padding: 2rem;
+    padding-left: 1rem;
+    padding-bottom: 2rem;
+    /* padding: 2rem; */
     color: white;
     font-size: 2rem;
     margin-top: 3rem;
